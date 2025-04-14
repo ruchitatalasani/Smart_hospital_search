@@ -1,0 +1,4 @@
+requests           # For calling Google APIs
+textblob           # For sentiment analysis
+nltk               # For stopwords and NLP utilities
+fpdf               # For generating PDF reports
